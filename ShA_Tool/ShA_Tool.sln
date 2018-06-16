@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShA_Tool", "ShA_Tool\ShA_Tool.csproj", "{D7D9C09A-0DDF-4EB3-922A-DF4BAB58302D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D9C09A-0DDF-4EB3-922A-DF4BAB58302D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D9C09A-0DDF-4EB3-922A-DF4BAB58302D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D9C09A-0DDF-4EB3-922A-DF4BAB58302D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D9C09A-0DDF-4EB3-922A-DF4BAB58302D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {179D2BC0-2E4E-4DEB-AE49-7DC975443396}
+	EndGlobalSection
+EndGlobal
